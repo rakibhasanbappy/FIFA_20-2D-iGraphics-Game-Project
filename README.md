@@ -4,4 +4,4 @@ FIFA'20 2D is a desktop game made using iGraphics where users can play a penalty
 **Language: C/C++** <br>
 **GUI: iGraphics**
 
-YouTube Link: https://youtu.be/KfXog6-8ToI
+YouTube Link: [Click here for video](https://youtu.be/KfXog6-8ToI)
